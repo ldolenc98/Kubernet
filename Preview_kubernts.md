@@ -40,7 +40,7 @@ helm-charts
 
 helm repo update
 ```
-## *Agora installe o NiFi utilizando o Helm:*
+## *Agora instale o NiFi utilizando o Helm:*
 ```
 helm install my-release cetic/nifi
 ```
